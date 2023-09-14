@@ -7,7 +7,7 @@
     "desiredSalaryCurrency": "USD",
     "petsPresence": true,
     "pets": { 
-        "petsNumber": 1,
+        "petsNumber": 2,
         "petsType": "Dog",
         "petsName": "Barfney"
     }
