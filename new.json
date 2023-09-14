@@ -9,6 +9,6 @@
     "pets": { 
         "petsNumber": 1,
         "petsType": "Dog",
-        "petsName": "Barney"
+        "petsName": "Barfney"
     }
 }
